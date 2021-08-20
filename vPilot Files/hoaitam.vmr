@@ -6084,26 +6084,26 @@
     <ModelMatchRule CallsignPrefix="HVN" TypeCode="B789" ModelName="A359hvn//A359HVN" />
     <ModelMatchRule CallsignPrefix="HVN" TypeCode="B78X" ModelName="A359hvn//A359HVN" />
     <ModelMatchRule CallsignPrefix="VAG" TypeCode="A321" ModelName="A321 VAG//A321VAG" />
-    <ModelMatchRule CallsignPrefix="VAG" TypeCode="A359" ModelName="A359hvn//A359HVN" />
-    <ModelMatchRule CallsignPrefix="VAG" TypeCode="A320" ModelName="A321 HVN//A321HVN" />
-    <ModelMatchRule CallsignPrefix="VAG" TypeCode="A319" ModelName="A321 HVN//A321HVN" />
-    <ModelMatchRule CallsignPrefix="VAG" TypeCode="A318" ModelName="A321 HVN//A321HVN" />
-    <ModelMatchRule CallsignPrefix="VAG" TypeCode="A20N" ModelName="A321 HVN//A321HVN" />
-    <ModelMatchRule CallsignPrefix="VAG" TypeCode="A21N" ModelName="A321 HVN//A321HVN" />
-    <ModelMatchRule CallsignPrefix="VAG" TypeCode="A19N" ModelName="A321 HVN//A321HVN" />
-    <ModelMatchRule CallsignPrefix="VAG" TypeCode="A333" ModelName="A359hvn//A359HVN" />
-    <ModelMatchRule CallsignPrefix="VAG" TypeCode="B732" ModelName="A321 HVN//A321HVN" />
-    <ModelMatchRule CallsignPrefix="VAG" TypeCode="B733" ModelName="A321 HVN//A321HVN" />
-    <ModelMatchRule CallsignPrefix="VAG" TypeCode="B737" ModelName="A321 HVN//A321HVN" />
-    <ModelMatchRule CallsignPrefix="VAG" TypeCode="B738" ModelName="A321 HVN//A321HVN" />
-    <ModelMatchRule CallsignPrefix="VAG" TypeCode="B748" ModelName="A359hvn//A359HVN" />
-    <ModelMatchRule CallsignPrefix="VAG" TypeCode="B763" ModelName="A359hvn//A359HVN" />
-    <ModelMatchRule CallsignPrefix="VAG" TypeCode="B772" ModelName="A359hvn//A359HVN" />
-    <ModelMatchRule CallsignPrefix="VAG" TypeCode="B77L" ModelName="A359hvn//A359HVN" />
-    <ModelMatchRule CallsignPrefix="VAG" TypeCode="B77W" ModelName="A359hvn//A359HVN" />
-    <ModelMatchRule CallsignPrefix="VAG" TypeCode="B788" ModelName="A359hvn//A359HVN" />
-    <ModelMatchRule CallsignPrefix="VAG" TypeCode="B789" ModelName="A359hvn//A359HVN" />
-    <ModelMatchRule CallsignPrefix="VAG" TypeCode="B78X" ModelName="A359hvn//A359HVN" />
+    <ModelMatchRule CallsignPrefix="VAG" TypeCode="A359" ModelName="A321 VAG//A321VAG" />
+    <ModelMatchRule CallsignPrefix="VAG" TypeCode="A320" ModelName="A321 VAG//A321VAG" />
+    <ModelMatchRule CallsignPrefix="VAG" TypeCode="A319" ModelName="A321 VAG//A321VAG" />
+    <ModelMatchRule CallsignPrefix="VAG" TypeCode="A318" ModelName="A321 VAG//A321VAG" />
+    <ModelMatchRule CallsignPrefix="VAG" TypeCode="A20N" ModelName="A321 VAG//A321VAG" />
+    <ModelMatchRule CallsignPrefix="VAG" TypeCode="A21N" ModelName="A321 VAG//A321VAG" />
+    <ModelMatchRule CallsignPrefix="VAG" TypeCode="A19N" ModelName="A321 VAG//A321VAG" />
+    <ModelMatchRule CallsignPrefix="VAG" TypeCode="A333" ModelName="A321 VAG//A321VAG" />
+    <ModelMatchRule CallsignPrefix="VAG" TypeCode="B732" ModelName="A321 VAG//A321VAG" />
+    <ModelMatchRule CallsignPrefix="VAG" TypeCode="B733" ModelName="A321 VAG//A321VAG" />
+    <ModelMatchRule CallsignPrefix="VAG" TypeCode="B737" ModelName="A321 VAG//A321VAG" />
+    <ModelMatchRule CallsignPrefix="VAG" TypeCode="B738" ModelName="A321 VAG//A321VAG" />
+    <ModelMatchRule CallsignPrefix="VAG" TypeCode="B748" ModelName="A321 VAG//A321VAG" />
+    <ModelMatchRule CallsignPrefix="VAG" TypeCode="B763" ModelName="A321 VAG//A321VAG" />
+    <ModelMatchRule CallsignPrefix="VAG" TypeCode="B772" ModelName="A321 VAG//A321VAG" />
+    <ModelMatchRule CallsignPrefix="VAG" TypeCode="B77L" ModelName="A321 VAG//A321VAG" />
+    <ModelMatchRule CallsignPrefix="VAG" TypeCode="B77W" ModelName="A321 VAG//A321VAG" />
+    <ModelMatchRule CallsignPrefix="VAG" TypeCode="B788" ModelName="A321 VAG//A321VAG" />
+    <ModelMatchRule CallsignPrefix="VAG" TypeCode="B789" ModelName="A321 VAG//A321VAG" />
+    <ModelMatchRule CallsignPrefix="VAG" TypeCode="B78X" ModelName="A321 VAG//A321VAG" />
     <ModelMatchRule CallsignPrefix="HXA" TypeCode="A20N" ModelName="Airbus A320 China Express AI//Airbus A320 China Express" />
     <ModelMatchRule CallsignPrefix="HXA" TypeCode="A320" ModelName="A320WHXAWL" />
     <ModelMatchRule CallsignPrefix="HXA" TypeCode="AJ27" ModelName="AJ27 HXA" />
@@ -13024,5 +13024,6 @@
     <ModelMatchRule TypeCode="MD11" ModelName="JFAI_MD11_paintkit" />
     <ModelMatchRule TypeCode="MD90" ModelName="JFAI_MD_90_paintkit" />
     <ModelMatchRule TypeCode="SUCO" ModelName="JYAI Bell AH-1Z Viper HMLAT-303 169256" />
+    <ModelMatchRule TypeCode="E55P" ModelName="Cessna CJ4 Citation AIRCANADA" />
     
 </ModelMatchRuleSet>
