@@ -6,7 +6,7 @@
 
 # Hướng dẫn cài đặt
 1. Tải file vatsim-modelMatching-msfs2020  và giải nén
-  (link : https://drive.google.com/drive/folders/1HpZKYUnPXADa9jq6fo6h3f7uliJePja3?usp=sharing)
+  (link : https://drive.google.com/file/d/1f4L_DA-__hY6Xx-65WhbF5pQ56CB2AfY/view?usp=sharing)
 2. Copy file fsuipc-lvar-module , ivao_x-csl , ivao_x-csl_CVT_ vào thư mục community
 3. Add tất cả các file trong thư mục Vpilot Files trên ứng dụng Vpilot
 4. Chắc chắn rằng file hoaitamMsfs.vmr ở trên cùng.
