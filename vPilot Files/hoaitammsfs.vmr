@@ -3,5 +3,6 @@
 	<ModelMatchRule CallsignPrefix="BAV" TypeCode="A20N" ModelName="Airbus A320 FlyByWire BAMBOO FLY GREEN" />
 	<ModelMatchRule CallsignPrefix="HVN" TypeCode="A20N" ModelName="Airbus A320 Neo Vietnam Airlines (A32NX Converted)//Airbus A320 Neo Vietnam Airlines AI//Airbus A320 Neo Vietnam Airlines"/>
 	<ModelMatchRule CallsignPrefix="VJC" TypeCode="A20N" ModelName="Airbus A320 Neo Vietjet (A32NX Converted)//Airbus A320 Neo Vietjet//Airbus A320 Neo Vietjet AI"/>
-
+	<ModelMatchRule TypeCode="C172" ModelName="Cessna Skyhawk 172Sp G1000 Xbox Aviators Club Livery//Cessna Skyhawk 172Sp G1000 Kenmore Livery//Cessna Skyhawk 172Sp G1000 Aviators Club Livery//Cessna 172SP Asobo AirTraffic 03" />
+	<ModelMatchRule TypeCode="DA40" ModelName="DA40-NG Asobo//DA 40 NG Aviators Club Livery//DA 40 NG Kenmore Livery//DA 40 NG Xbox Aviators Club Livery" />
 </ModelMatchRuleSet>
