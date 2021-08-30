@@ -626,6 +626,7 @@
     <ModelMatchRule CallsignPrefix="AHY" TypeCode="B77W" ModelName="B788AHY" />
     <ModelMatchRule CallsignPrefix="AHY" TypeCode="B789" ModelName="B788AHY" />
     <ModelMatchRule CallsignPrefix="AHY" TypeCode="B78X" ModelName="B788AHY" />
+
     <ModelMatchRule CallsignPrefix="AIB" TypeCode="A319" ModelName="A319WAIBWL//A319AIBWL//A319AIB2//A319AIB//A319AIB" />
     <ModelMatchRule CallsignPrefix="AIB" TypeCode="A320" ModelName="A320WAIBWL//A320AIBWL//A320AIB2//A320AIB" />
     <ModelMatchRule CallsignPrefix="AIB" TypeCode="A321" ModelName="A321AIBWL//A321AIB2WL//A321AIB2//A321AIB2//A321AIB" />
@@ -635,7 +636,7 @@
     <ModelMatchRule CallsignPrefix="AIB" TypeCode="A359" ModelName="A359AIB4//A359AIB3//A359AIB2//A359AIB" />
     <ModelMatchRule CallsignPrefix="AIB" TypeCode="A388" ModelName="A388AIB" />
     <ModelMatchRule CallsignPrefix="AIB" TypeCode="A318" ModelName="A320WAIBWL//A320AIBWL//A320AIB2//A320AIB//A321AIBWL//A321AIB2WL//A321AIB2//A321AIB2//A321AIB//A319WAIBWL//A319AIBWL//A319AIB2//A319AIB//A319AIB" />
-    <ModelMatchRule CallsignPrefix="AIB" TypeCode="A20N" ModelName="A320WAIBWL//A320AIBWL//A320AIB2//A320AIB//A321AIBWL//A321AIB2WL//A321AIB2//A321AIB2//A321AIB//A319WAIBWL//A319AIBWL//A319AIB2//A319AIB//A319AIB" />
+    <ModelMatchRule CallsignPrefix="AIB" TypeCode="A20N" ModelName="A320WAIBWL//A320AIBWL//A320AIB2//A320AIB" />
     <ModelMatchRule CallsignPrefix="AIB" TypeCode="A21N" ModelName="A320WAIBWL//A320AIBWL//A320AIB2//A320AIB//A321AIBWL//A321AIB2WL//A321AIB2//A321AIB2//A321AIB//A319WAIBWL//A319AIBWL//A319AIB2//A319AIB//A319AIB" />
     <ModelMatchRule CallsignPrefix="AIB" TypeCode="A19N" ModelName="A320WAIBWL//A320AIBWL//A320AIB2//A320AIB//A321AIBWL//A321AIB2WL//A321AIB2//A321AIB2//A321AIB//A319WAIBWL//A319AIBWL//A319AIB2//A319AIB//A319AIB" />
     <ModelMatchRule CallsignPrefix="AIB" TypeCode="B732" ModelName="A320WAIBWL//A320AIBWL//A320AIB2//A320AIB//A321AIBWL//A321AIB2WL//A321AIB2//A321AIB2//A321AIB//A319WAIBWL//A319AIBWL//A319AIB2//A319AIB//A319AIB" />
@@ -650,6 +651,7 @@
     <ModelMatchRule CallsignPrefix="AIB" TypeCode="B788" ModelName="Airbus A330-300 HOUSE//A359AIB4//A359AIB3//A359AIB2//A359AIB" />
     <ModelMatchRule CallsignPrefix="AIB" TypeCode="B789" ModelName="Airbus A330-300 HOUSE//A359AIB4//A359AIB3//A359AIB2//A359AIB" />
     <ModelMatchRule CallsignPrefix="AIB" TypeCode="B78X" ModelName="Airbus A330-300 HOUSE//A359AIB4//A359AIB3//A359AIB2//A359AIB" />
+
     <ModelMatchRule CallsignPrefix="AIC" TypeCode="A319" ModelName="A319AIC2//A319AIC" />
     <ModelMatchRule CallsignPrefix="AIC" TypeCode="A320" ModelName="A320WAICWL//A320AIC3//A320AIC2//A320AIC" />
     <ModelMatchRule CallsignPrefix="AIC" TypeCode="A321" ModelName="A321AIC" />
@@ -12499,27 +12501,27 @@
     <ModelMatchRule CallsignPrefix="VIV" TypeCode="B789" ModelName="A320WVIVWL2//A320WVIVWL//A320VIV3//A320VIV2//A320VIV" />
     <ModelMatchRule CallsignPrefix="VIV" TypeCode="B78X" ModelName="A320WVIVWL2//A320WVIVWL//A320VIV3//A320VIV2//A320VIV" />
 
-    <ModelMatchRule CallsignPrefix="VJC" TypeCode="A320" ModelName="A320WvjcWL2//A320WvjcWL7//A320WvjcWL6//A320WvjcWL5//A320WvjcWL4//A320WvjcWL3//A320WvjcWL2//A320WvjcWL//A320vjc//A320 VJC" />
-    <ModelMatchRule CallsignPrefix="VJC" TypeCode="A321" ModelName="A320WvjcWL2//A320WvjcWL7//A320WvjcWL6//A320WvjcWL5//A320WvjcWL4//A320WvjcWL3//A320WvjcWL2//A320WvjcWL//A320vjc//A320 VJC" />
-    <ModelMatchRule CallsignPrefix="VJC" TypeCode="A319" ModelName="A320WvjcWL2//A320WvjcWL7//A320WvjcWL6//A320WvjcWL5//A320WvjcWL4//A320WvjcWL3//A320WvjcWL2//A320WvjcWL//A320vjc//A320 VJC" />
-    <ModelMatchRule CallsignPrefix="VJC" TypeCode="A318" ModelName="A320WvjcWL2//A320WvjcWL7//A320WvjcWL6//A320WvjcWL5//A320WvjcWL4//A320WvjcWL3//A320WvjcWL2//A320WvjcWL//A320vjc//A320 VJC" />
-    <ModelMatchRule CallsignPrefix="VJC" TypeCode="A20N" ModelName="A320WvjcWL2//A320WvjcWL7//A320WvjcWL6//A320WvjcWL5//A320WvjcWL4//A320WvjcWL3//A320WvjcWL2//A320WvjcWL//A320vjc//A320 VJC" />
-    <ModelMatchRule CallsignPrefix="VJC" TypeCode="A21N" ModelName="A320WvjcWL2//A320WvjcWL7//A320WvjcWL6//A320WvjcWL5//A320WvjcWL4//A320WvjcWL3//A320WvjcWL2//A320WvjcWL//A320vjc//A320 VJC" />
-    <ModelMatchRule CallsignPrefix="VJC" TypeCode="A19N" ModelName="A320WvjcWL2//A320WvjcWL7//A320WvjcWL6//A320WvjcWL5//A320WvjcWL4//A320WvjcWL3//A320WvjcWL2//A320WvjcWL//A320vjc//A320 VJC" />
-    <ModelMatchRule CallsignPrefix="VJC" TypeCode="A333" ModelName="A320WvjcWL2//A320WvjcWL7//A320WvjcWL6//A320WvjcWL5//A320WvjcWL4//A320WvjcWL3//A320WvjcWL2//A320WvjcWL//A320vjc//A320 VJC" />
-    <ModelMatchRule CallsignPrefix="VJC" TypeCode="A359" ModelName="A320WvjcWL2//A320WvjcWL7//A320WvjcWL6//A320WvjcWL5//A320WvjcWL4//A320WvjcWL3//A320WvjcWL2//A320WvjcWL//A320vjc//A320 VJC" />
-    <ModelMatchRule CallsignPrefix="VJC" TypeCode="B732" ModelName="A320WvjcWL2//A320WvjcWL7//A320WvjcWL6//A320WvjcWL5//A320WvjcWL4//A320WvjcWL3//A320WvjcWL2//A320WvjcWL//A320vjc//A320 VJC" />
-    <ModelMatchRule CallsignPrefix="VJC" TypeCode="B733" ModelName="A320WvjcWL2//A320WvjcWL7//A320WvjcWL6//A320WvjcWL5//A320WvjcWL4//A320WvjcWL3//A320WvjcWL2//A320WvjcWL//A320vjc//A320 VJC" />
-    <ModelMatchRule CallsignPrefix="VJC" TypeCode="B737" ModelName="A320WvjcWL2//A320WvjcWL7//A320WvjcWL6//A320WvjcWL5//A320WvjcWL4//A320WvjcWL3//A320WvjcWL2//A320WvjcWL//A320vjc//A320 VJC" />
-    <ModelMatchRule CallsignPrefix="VJC" TypeCode="B738" ModelName="A320WvjcWL2//A320WvjcWL7//A320WvjcWL6//A320WvjcWL5//A320WvjcWL4//A320WvjcWL3//A320WvjcWL2//A320WvjcWL//A320vjc//A320 VJC" />
-    <ModelMatchRule CallsignPrefix="VJC" TypeCode="B748" ModelName="A320WvjcWL2//A320WvjcWL7//A320WvjcWL6//A320WvjcWL5//A320WvjcWL4//A320WvjcWL3//A320WvjcWL2//A320WvjcWL//A320vjc//A320 VJC" />
-    <ModelMatchRule CallsignPrefix="VJC" TypeCode="B763" ModelName="A320WvjcWL2//A320WvjcWL7//A320WvjcWL6//A320WvjcWL5//A320WvjcWL4//A320WvjcWL3//A320WvjcWL2//A320WvjcWL//A320vjc//A320 VJC" />
-    <ModelMatchRule CallsignPrefix="VJC" TypeCode="B772" ModelName="A320WvjcWL2//A320WvjcWL7//A320WvjcWL6//A320WvjcWL5//A320WvjcWL4//A320WvjcWL3//A320WvjcWL2//A320WvjcWL//A320vjc//A320 VJC" />
-    <ModelMatchRule CallsignPrefix="VJC" TypeCode="B77L" ModelName="A320WvjcWL2//A320WvjcWL7//A320WvjcWL6//A320WvjcWL5//A320WvjcWL4//A320WvjcWL3//A320WvjcWL2//A320WvjcWL//A320vjc//A320 VJC" />
-    <ModelMatchRule CallsignPrefix="VJC" TypeCode="B77W" ModelName="A320WvjcWL2//A320WvjcWL7//A320WvjcWL6//A320WvjcWL5//A320WvjcWL4//A320WvjcWL3//A320WvjcWL2//A320WvjcWL//A320vjc//A320 VJC" />
-    <ModelMatchRule CallsignPrefix="VJC" TypeCode="B788" ModelName="A320WvjcWL2//A320WvjcWL7//A320WvjcWL6//A320WvjcWL5//A320WvjcWL4//A320WvjcWL3//A320WvjcWL2//A320WvjcWL//A320vjc//A320 VJC" />
-    <ModelMatchRule CallsignPrefix="VJC" TypeCode="B789" ModelName="A320WvjcWL2//A320WvjcWL7//A320WvjcWL6//A320WvjcWL5//A320WvjcWL4//A320WvjcWL3//A320WvjcWL2//A320WvjcWL//A320vjc//A320 VJC" />
-    <ModelMatchRule CallsignPrefix="VJC" TypeCode="B78X" ModelName="A320WvjcWL2//A320WvjcWL7//A320WvjcWL6//A320WvjcWL5//A320WvjcWL4//A320WvjcWL3//A320WvjcWL2//A320WvjcWL//A320vjc//A320 VJC" />
+    <ModelMatchRule CallsignPrefix="VJC" TypeCode="A320" ModelName="A320WvjcWL2//A320WvjcWL7//A320WvjcWL6//A320WvjcWL5//A320WvjcWL4//A320WvjcWL3//A320WvjcWL2//A320WvjcWL//A320vjc//A320 VJC//A20N VJC" />
+    <ModelMatchRule CallsignPrefix="VJC" TypeCode="A321" ModelName="A321 VJC" />
+    <ModelMatchRule CallsignPrefix="VJC" TypeCode="A319" ModelName="A320WvjcWL2//A320WvjcWL7//A320WvjcWL6//A320WvjcWL5//A320WvjcWL4//A320WvjcWL3//A320WvjcWL2//A320WvjcWL//A320vjc//A320 VJC//A20N VJC" />
+    <ModelMatchRule CallsignPrefix="VJC" TypeCode="A318" ModelName="A320WvjcWL2//A320WvjcWL7//A320WvjcWL6//A320WvjcWL5//A320WvjcWL4//A320WvjcWL3//A320WvjcWL2//A320WvjcWL//A320vjc//A320 VJC//A20N VJC" />
+    <ModelMatchRule CallsignPrefix="VJC" TypeCode="A20N" ModelName="A20N VJC" />
+    <ModelMatchRule CallsignPrefix="VJC" TypeCode="A21N" ModelName="A321 VJC" />
+    <ModelMatchRule CallsignPrefix="VJC" TypeCode="A19N" ModelName="A20N VJC" />
+    <ModelMatchRule CallsignPrefix="VJC" TypeCode="A333" ModelName="A321 VJC" />
+    <ModelMatchRule CallsignPrefix="VJC" TypeCode="A359" ModelName="A321 VJC" />
+    <ModelMatchRule CallsignPrefix="VJC" TypeCode="B732" ModelName="A321 VJC" />
+    <ModelMatchRule CallsignPrefix="VJC" TypeCode="B733" ModelName="A321 VJC" />
+    <ModelMatchRule CallsignPrefix="VJC" TypeCode="B737" ModelName="A321 VJC" />
+    <ModelMatchRule CallsignPrefix="VJC" TypeCode="B738" ModelName="A321 VJC" />
+    <ModelMatchRule CallsignPrefix="VJC" TypeCode="B748" ModelName="A321 VJC" />
+    <ModelMatchRule CallsignPrefix="VJC" TypeCode="B763" ModelName="A321 VJC" />
+    <ModelMatchRule CallsignPrefix="VJC" TypeCode="B772" ModelName="A321 VJC" />
+    <ModelMatchRule CallsignPrefix="VJC" TypeCode="B77L" ModelName="A321 VJC" />
+    <ModelMatchRule CallsignPrefix="VJC" TypeCode="B77W" ModelName="A321 VJC" />
+    <ModelMatchRule CallsignPrefix="VJC" TypeCode="B788" ModelName="A321 VJC" />
+    <ModelMatchRule CallsignPrefix="VJC" TypeCode="B789" ModelName="A321 VJC" />
+    <ModelMatchRule CallsignPrefix="VJC" TypeCode="B78X" ModelName="A321 VJC" />
 
     <ModelMatchRule CallsignPrefix="VKG" TypeCode="A321" ModelName="A321VKG" />
     <ModelMatchRule CallsignPrefix="VKG" TypeCode="A320" ModelName="A321VKG" />
