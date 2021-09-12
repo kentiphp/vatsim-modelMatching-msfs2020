@@ -13256,6 +13256,8 @@
     <ModelMatchRule TypeCode="MD90" ModelName="JFAI_MD_90_paintkit" />
     <ModelMatchRule TypeCode="SUCO" ModelName="JYAI Bell AH-1Z Viper HMLAT-303 169256" />
     <ModelMatchRule TypeCode="E55P" ModelName="Cessna CJ4 Citation AIRCANADA" />
+    <ModelMatchRule TypeCode="AT72" ModelName="JFAI_Dash8_300_paintkit" />
+
     
     
     

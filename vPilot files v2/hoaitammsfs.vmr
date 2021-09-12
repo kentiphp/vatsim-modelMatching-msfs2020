@@ -18,4 +18,6 @@
     <ModelMatchRule TypeCode="CRJ7" ModelName="Cessna CJ4 Citation Asobo//Cessna CJ4 Citation 01 Livery//Cessna CJ4 Citation Aviators Club Livery//Cessna CJ4 Citation Global Livery//Cessna CJ4 Citation Kenmore Livery//Cessna CJ4 Citation Orbit Livery//Cessna CJ4 Citation PAacifica//Cessna CJ4 Citation Xbox Aviators Club Livery" />
     <ModelMatchRule TypeCode="CRJ9" ModelName="Cessna CJ4 Citation Asobo//Cessna CJ4 Citation 01 Livery//Cessna CJ4 Citation Aviators Club Livery//Cessna CJ4 Citation Global Livery//Cessna CJ4 Citation Kenmore Livery//Cessna CJ4 Citation Orbit Livery//Cessna CJ4 Citation PAacifica//Cessna CJ4 Citation Xbox Aviators Club Livery" />
     <ModelMatchRule TypeCode="CRJX" ModelName="Cessna CJ4 Citation Asobo//Cessna CJ4 Citation 01 Livery//Cessna CJ4 Citation Aviators Club Livery//Cessna CJ4 Citation Global Livery//Cessna CJ4 Citation Kenmore Livery//Cessna CJ4 Citation Orbit Livery//Cessna CJ4 Citation PAacifica//Cessna CJ4 Citation Xbox Aviators Club Livery" />
+    <ModelMatchRule TypeCode="AC11" ModelName="Cessna 152 Asobo//Cessna 152 Aero 01 Livery//Cessna 152 Aero Aviators Club Livery//Cessna 152 Aero Kenmore Livery//Cessna 152 Aero Xbox Aviators Club Livery//Cessna 152 01 Livery//Cessna 152 Aviators Club Livery//Cessna 152 Kenmore Livery//Cessna 152 Xbox Aviators Club Livery" />
+
 </ModelMatchRuleSet>

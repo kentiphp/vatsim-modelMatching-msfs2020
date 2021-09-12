@@ -12969,24 +12969,6 @@
     <ModelMatchRule TypeCode="MD11" ModelName="JFAI_MD11_paintkit" />
     <ModelMatchRule TypeCode="MD90" ModelName="JFAI_MD_90_paintkit" />
     <ModelMatchRule TypeCode="RJ1H" ModelName="JFAI_RJ100" />
-    <ModelMatchRule TypeCode="A320" ModelName="FLAi_B763_X" />
-    <ModelMatchRule TypeCode="A321" ModelName="FLAi_B763_X" />
-    <ModelMatchRule TypeCode="A319" ModelName="FLAi_B763_X" />
-    <ModelMatchRule TypeCode="A318" ModelName="FLAi_B763_X" />
-    <ModelMatchRule TypeCode="A20N" ModelName="FLAi_B763_X" />
-    <ModelMatchRule TypeCode="A21N" ModelName="FLAi_B763_X" />
-    <ModelMatchRule TypeCode="A19N" ModelName="FLAi_B763_X" />
-    <ModelMatchRule TypeCode="A333" ModelName="FLAi_B763_X" />
-    <ModelMatchRule TypeCode="A359" ModelName="FLAi_B763_X" />
-    <ModelMatchRule TypeCode="B732" ModelName="FLAi_B763_X" />
-    <ModelMatchRule TypeCode="B733" ModelName="FLAi_B763_X" />
-    <ModelMatchRule TypeCode="B737" ModelName="FLAi_B763_X" />
-    <ModelMatchRule TypeCode="B738" ModelName="FLAi_B763_X" />
-    <ModelMatchRule TypeCode="B748" ModelName="FLAi_B763_X" />
-    <ModelMatchRule TypeCode="B772" ModelName="FLAi_B763_X" />
-    <ModelMatchRule TypeCode="B77L" ModelName="FLAi_B763_X" />
-    <ModelMatchRule TypeCode="B77W" ModelName="FLAi_B763_X" />
-    <ModelMatchRule TypeCode="B788" ModelName="FLAi_B763_X" />
-    <ModelMatchRule TypeCode="B789" ModelName="FLAi_B763_X" />
-    <ModelMatchRule TypeCode="B78X" ModelName="FLAi_B763_X" />
+    <ModelMatchRule TypeCode="AT72" ModelName="JFAI_Dash8_300_Wideroe" />
+    
 </ModelMatchRuleSet>
