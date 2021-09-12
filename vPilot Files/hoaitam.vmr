@@ -3032,7 +3032,7 @@
     <ModelMatchRule CallsignPrefix="DLH" TypeCode="B733" ModelName="B744DLH//B744DLH2" />
     <ModelMatchRule CallsignPrefix="DLH" TypeCode="B737" ModelName="B744DLH//B744DLH2" />
     <ModelMatchRule CallsignPrefix="DLH" TypeCode="B738" ModelName="B744DLH//B744DLH2" />
-    <ModelMatchRule CallsignPrefix="DLH" TypeCode="B744" ModelName="B744DLH//B744DLH2" />
+    <ModelMatchRule CallsignPrefix="DLH" TypeCode="B744" ModelName="B744DLH2" />
     <ModelMatchRule CallsignPrefix="DLH" TypeCode="B748" ModelName="B748DLH2" />
     <ModelMatchRule CallsignPrefix="DLH" TypeCode="B763" ModelName="B748DLH2" />
     <ModelMatchRule CallsignPrefix="DLH" TypeCode="B772" ModelName="B748DLH2" />
