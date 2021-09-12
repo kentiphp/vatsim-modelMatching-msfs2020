@@ -24,8 +24,8 @@
     <ModelMatchRule CallsignPrefix="AAF" TypeCode="B789" ModelName="A320WAAFWL//A320AAF//A319AAF" />
     <ModelMatchRule CallsignPrefix="AAF" TypeCode="B78X" ModelName="A320WAAFWL//A320AAF//A319AAF" />
     <ModelMatchRule CallsignPrefix="AAL" TypeCode="A319" ModelName="A319WAALWL//A319AAL2//A319AAL" />
-    <ModelMatchRule CallsignPrefix="AAL" TypeCode="A320" ModelName="A320AAL2//A320AAL" />
-    <ModelMatchRule CallsignPrefix="AAL" TypeCode="A321" ModelName="Airbus A321 American Airlines//A321AAL" />
+    <ModelMatchRule CallsignPrefix="AAL" TypeCode="A320" ModelName="A320 AAL" />
+    <ModelMatchRule CallsignPrefix="AAL" TypeCode="A321" ModelName="A321 AAL" />
     <ModelMatchRule CallsignPrefix="AAL" TypeCode="A332" ModelName="A332AAL" />
     <ModelMatchRule CallsignPrefix="AAL" TypeCode="A333" ModelName="Airbus A330-300 American Airlines" />
     <ModelMatchRule CallsignPrefix="AAL" TypeCode="B738" ModelName="B738WAALWL2" />
@@ -50,7 +50,8 @@
     <ModelMatchRule CallsignPrefix="AAL" TypeCode="CRJ9" ModelName="CRJ7 AAL" />
     <ModelMatchRule CallsignPrefix="AAL" TypeCode="CRJX" ModelName="CRJ7 AAL" />
     <ModelMatchRule CallsignPrefix="AAL" TypeCode="C25C" ModelName="CRJ7 AAL" />
-    <ModelMatchRule CallsignPrefix="AAR" TypeCode="A320" ModelName="A320AAR" />
+
+    <ModelMatchRule CallsignPrefix="AAR" TypeCode="A320" ModelName="A320 AAR" />
     <ModelMatchRule CallsignPrefix="AAR" TypeCode="A321" ModelName="A321AAR" />
     <ModelMatchRule CallsignPrefix="AAR" TypeCode="A359" ModelName="A359AAR" />
     <ModelMatchRule CallsignPrefix="AAR" TypeCode="A388" ModelName="A388AAR" />
@@ -95,8 +96,9 @@
     <ModelMatchRule CallsignPrefix="AAW" TypeCode="B788" ModelName="A320AAW//A319WAAW2//A319AAW" />
     <ModelMatchRule CallsignPrefix="AAW" TypeCode="B789" ModelName="A320AAW//A319WAAW2//A319AAW" />
     <ModelMatchRule CallsignPrefix="AAW" TypeCode="B78X" ModelName="A320AAW//A319WAAW2//A319AAW" />
+
     <ModelMatchRule CallsignPrefix="AAY" TypeCode="A319" ModelName="A319AAY" />
-    <ModelMatchRule CallsignPrefix="AAY" TypeCode="A320" ModelName="A320WAAYWL//A320AAY" />
+    <ModelMatchRule CallsignPrefix="AAY" TypeCode="A320" ModelName="A320 AAY" />
     <ModelMatchRule CallsignPrefix="AAY" TypeCode="A321" ModelName="A320WAAYWL//A320AAY//A319AAY" />
     <ModelMatchRule CallsignPrefix="AAY" TypeCode="A318" ModelName="A320WAAYWL//A320AAY//A319AAY" />
     <ModelMatchRule CallsignPrefix="AAY" TypeCode="A20N" ModelName="A320WAAYWL//A320AAY//A319AAY" />
@@ -202,27 +204,28 @@
     <ModelMatchRule CallsignPrefix="ABN" TypeCode="B788" ModelName="B738WABNWL" />
     <ModelMatchRule CallsignPrefix="ABN" TypeCode="B789" ModelName="B738WABNWL" />
     <ModelMatchRule CallsignPrefix="ABN" TypeCode="B78X" ModelName="B738WABNWL" />
-    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="A320" ModelName="A320WABQWL2//A320ABQ" />
-    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="A321" ModelName="A320WABQWL2//A320ABQ" />
-    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="A319" ModelName="A320WABQWL2//A320ABQ" />
-    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="A318" ModelName="A320WABQWL2//A320ABQ" />
-    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="A20N" ModelName="A320WABQWL2//A320ABQ" />
-    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="A21N" ModelName="A320WABQWL2//A320ABQ" />
-    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="A19N" ModelName="A320WABQWL2//A320ABQ" />
-    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="A333" ModelName="A320WABQWL2//A320ABQ" />
-    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="A359" ModelName="A320WABQWL2//A320ABQ" />
-    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="B732" ModelName="A320WABQWL2//A320ABQ" />
-    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="B733" ModelName="A320WABQWL2//A320ABQ" />
-    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="B737" ModelName="A320WABQWL2//A320ABQ" />
-    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="B738" ModelName="A320WABQWL2//A320ABQ" />
-    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="B748" ModelName="A320WABQWL2//A320ABQ" />
-    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="B763" ModelName="A320WABQWL2//A320ABQ" />
-    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="B772" ModelName="A320WABQWL2//A320ABQ" />
-    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="B77L" ModelName="A320WABQWL2//A320ABQ" />
-    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="B77W" ModelName="A320WABQWL2//A320ABQ" />
-    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="B788" ModelName="A320WABQWL2//A320ABQ" />
-    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="B789" ModelName="A320WABQWL2//A320ABQ" />
-    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="B78X" ModelName="A320WABQWL2//A320ABQ" />
+
+    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="A320" ModelName="A320 ABQ" />
+    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="A321" ModelName="A320 ABQ" />
+    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="A319" ModelName="A320 ABQ" />
+    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="A318" ModelName="A320 ABQ" />
+    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="A20N" ModelName="A320 ABQ" />
+    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="A21N" ModelName="A320 ABQ" />
+    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="A19N" ModelName="A320 ABQ" />
+    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="A333" ModelName="A320 ABQ" />
+    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="A359" ModelName="A320 ABQ" />
+    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="B732" ModelName="A320 ABQ" />
+    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="B733" ModelName="A320 ABQ" />    
+    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="B737" ModelName="A320 ABQ" />
+    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="B738" ModelName="A320 ABQ" />
+    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="B748" ModelName="A320 ABQ" />
+    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="B763" ModelName="A320 ABQ" />
+    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="B772" ModelName="A320 ABQ" />
+    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="B77L" ModelName="A320 ABQ" />
+    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="B77W" ModelName="A320 ABQ" />
+    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="B788" ModelName="A320 ABQ" />
+    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="B789" ModelName="A320 ABQ" />
+    <ModelMatchRule CallsignPrefix="ABQ" TypeCode="B78X" ModelName="A320 ABQ" />
     <ModelMatchRule CallsignPrefix="ABT" TypeCode="A320" ModelName="A320WABTWL" />
     <ModelMatchRule CallsignPrefix="ABT" TypeCode="A321" ModelName="A320WABTWL" />
     <ModelMatchRule CallsignPrefix="ABT" TypeCode="A319" ModelName="A320WABTWL" />
@@ -266,31 +269,34 @@
     <ModelMatchRule CallsignPrefix="ABX" TypeCode="B788" ModelName="FLAi_FAIB_B763_ABX-Abx Air GE//FLAi_FAIB_B763_ABX-Abx Air DHLGE//FLAi_FAIB_B763_ABX-Abx Air DHL//FLAi_FAIB_B763_ABX-Abx Air" />
     <ModelMatchRule CallsignPrefix="ABX" TypeCode="B789" ModelName="FLAi_FAIB_B763_ABX-Abx Air GE//FLAi_FAIB_B763_ABX-Abx Air DHLGE//FLAi_FAIB_B763_ABX-Abx Air DHL//FLAi_FAIB_B763_ABX-Abx Air" />
     <ModelMatchRule CallsignPrefix="ABX" TypeCode="B78X" ModelName="FLAi_FAIB_B763_ABX-Abx Air GE//FLAi_FAIB_B763_ABX-Abx Air DHLGE//FLAi_FAIB_B763_ABX-Abx Air DHL//FLAi_FAIB_B763_ABX-Abx Air" />
-    <ModelMatchRule CallsignPrefix="ABY" TypeCode="A320" ModelName="A320WABYWL//A320ABY" />
-    <ModelMatchRule CallsignPrefix="ABY" TypeCode="A321" ModelName="A320WABYWL//A320ABY" />
-    <ModelMatchRule CallsignPrefix="ABY" TypeCode="A319" ModelName="A320WABYWL//A320ABY" />
-    <ModelMatchRule CallsignPrefix="ABY" TypeCode="A318" ModelName="A320WABYWL//A320ABY" />
-    <ModelMatchRule CallsignPrefix="ABY" TypeCode="A20N" ModelName="A320WABYWL//A320ABY" />
-    <ModelMatchRule CallsignPrefix="ABY" TypeCode="A21N" ModelName="A320WABYWL//A320ABY" />
-    <ModelMatchRule CallsignPrefix="ABY" TypeCode="A19N" ModelName="A320WABYWL//A320ABY" />
-    <ModelMatchRule CallsignPrefix="ABY" TypeCode="A333" ModelName="A320WABYWL//A320ABY" />
-    <ModelMatchRule CallsignPrefix="ABY" TypeCode="A359" ModelName="A320WABYWL//A320ABY" />
-    <ModelMatchRule CallsignPrefix="ABY" TypeCode="B732" ModelName="A320WABYWL//A320ABY" />
-    <ModelMatchRule CallsignPrefix="ABY" TypeCode="B733" ModelName="A320WABYWL//A320ABY" />
-    <ModelMatchRule CallsignPrefix="ABY" TypeCode="B737" ModelName="A320WABYWL//A320ABY" />
-    <ModelMatchRule CallsignPrefix="ABY" TypeCode="B738" ModelName="A320WABYWL//A320ABY" />
-    <ModelMatchRule CallsignPrefix="ABY" TypeCode="B748" ModelName="A320WABYWL//A320ABY" />
-    <ModelMatchRule CallsignPrefix="ABY" TypeCode="B763" ModelName="A320WABYWL//A320ABY" />
-    <ModelMatchRule CallsignPrefix="ABY" TypeCode="B772" ModelName="A320WABYWL//A320ABY" />
-    <ModelMatchRule CallsignPrefix="ABY" TypeCode="B77L" ModelName="A320WABYWL//A320ABY" />
-    <ModelMatchRule CallsignPrefix="ABY" TypeCode="B77W" ModelName="A320WABYWL//A320ABY" />
-    <ModelMatchRule CallsignPrefix="ABY" TypeCode="B788" ModelName="A320WABYWL//A320ABY" />
-    <ModelMatchRule CallsignPrefix="ABY" TypeCode="B789" ModelName="A320WABYWL//A320ABY" />
-    <ModelMatchRule CallsignPrefix="ABY" TypeCode="B78X" ModelName="A320WABYWL//A320ABY" />
+
+    <ModelMatchRule CallsignPrefix="ABY" TypeCode="A320" ModelName="A320 ABY" />
+    <ModelMatchRule CallsignPrefix="ABY" TypeCode="A321" ModelName="A320 ABY" />
+    <ModelMatchRule CallsignPrefix="ABY" TypeCode="A319" ModelName="A320 ABY" />
+    <ModelMatchRule CallsignPrefix="ABY" TypeCode="A318" ModelName="A320 ABY" />
+    <ModelMatchRule CallsignPrefix="ABY" TypeCode="A20N" ModelName="A320 ABY" />
+    <ModelMatchRule CallsignPrefix="ABY" TypeCode="A21N" ModelName="A320 ABY" />
+    <ModelMatchRule CallsignPrefix="ABY" TypeCode="A19N" ModelName="A320 ABY" />
+    <ModelMatchRule CallsignPrefix="ABY" TypeCode="A333" ModelName="A320 ABY" />
+    <ModelMatchRule CallsignPrefix="ABY" TypeCode="A359" ModelName="A320 ABY" />
+    <ModelMatchRule CallsignPrefix="ABY" TypeCode="B732" ModelName="A320 ABY" />
+    <ModelMatchRule CallsignPrefix="ABY" TypeCode="B733" ModelName="A320 ABY" />
+    <ModelMatchRule CallsignPrefix="ABY" TypeCode="B737" ModelName="A320 ABY" />
+    <ModelMatchRule CallsignPrefix="ABY" TypeCode="B738" ModelName="A320 ABY" />
+    <ModelMatchRule CallsignPrefix="ABY" TypeCode="B748" ModelName="A320 ABY" />
+    <ModelMatchRule CallsignPrefix="ABY" TypeCode="B763" ModelName="A320 ABY" />
+    <ModelMatchRule CallsignPrefix="ABY" TypeCode="B772" ModelName="A320 ABY" />
+    <ModelMatchRule CallsignPrefix="ABY" TypeCode="B77L" ModelName="A320 ABY" />
+    <ModelMatchRule CallsignPrefix="ABY" TypeCode="B77W" ModelName="A320 ABY" />
+    <ModelMatchRule CallsignPrefix="ABY" TypeCode="B788" ModelName="A320 ABY" />
+    <ModelMatchRule CallsignPrefix="ABY" TypeCode="B789" ModelName="A320 ABY" />
+    <ModelMatchRule CallsignPrefix="ABY" TypeCode="B78X" ModelName="A320 ABY" />
+    
     <ModelMatchRule CallsignPrefix="ABZ" TypeCode="B744" ModelName="B744ABZ" />
+
     <ModelMatchRule CallsignPrefix="ACA" TypeCode="A319" ModelName="A319ACA2//A319ACA" />
-    <ModelMatchRule CallsignPrefix="ACA" TypeCode="A320" ModelName="A320ACA" />
-    <ModelMatchRule CallsignPrefix="ACA" TypeCode="A321" ModelName="A321ACA2//A321ACA" />
+    <ModelMatchRule CallsignPrefix="ACA" TypeCode="A320" ModelName="A320 ACA" />
+    <ModelMatchRule CallsignPrefix="ACA" TypeCode="A321" ModelName="A321 ACA" />
     <ModelMatchRule CallsignPrefix="ACA" TypeCode="A333" ModelName="Airbus A330-300 Air Canada New//Airbus A330-300 Air Canada Ice Blue" />
     <ModelMatchRule CallsignPrefix="ACA" TypeCode="B738" ModelName="B738ACAS" />
     <ModelMatchRule CallsignPrefix="ACA" TypeCode="B744" ModelName="B744ACA" />
@@ -7108,27 +7114,29 @@
     <ModelMatchRule CallsignPrefix="KGL" TypeCode="B788" ModelName="A320KGL//A321KGL2" />
     <ModelMatchRule CallsignPrefix="KGL" TypeCode="B789" ModelName="A320KGL//A321KGL2" />
     <ModelMatchRule CallsignPrefix="KGL" TypeCode="B78X" ModelName="A320KGL//A321KGL2" />
+
     <ModelMatchRule CallsignPrefix="KHV" TypeCode="A320" ModelName="A320WKHVWL" />
-    <ModelMatchRule CallsignPrefix="KHV" TypeCode="A321" ModelName="A321KHV" />
-    <ModelMatchRule CallsignPrefix="KHV" TypeCode="A319" ModelName="A320WKHVWL//A321KHV" />
-    <ModelMatchRule CallsignPrefix="KHV" TypeCode="A318" ModelName="A320WKHVWL//A321KHV" />
-    <ModelMatchRule CallsignPrefix="KHV" TypeCode="A20N" ModelName="A320WKHVWL//A321KHV" />
-    <ModelMatchRule CallsignPrefix="KHV" TypeCode="A21N" ModelName="A320WKHVWL//A321KHV" />
-    <ModelMatchRule CallsignPrefix="KHV" TypeCode="A19N" ModelName="A320WKHVWL//A321KHV" />
-    <ModelMatchRule CallsignPrefix="KHV" TypeCode="A333" ModelName="A320WKHVWL//A321KHV" />
-    <ModelMatchRule CallsignPrefix="KHV" TypeCode="A359" ModelName="A320WKHVWL//A321KHV" />
-    <ModelMatchRule CallsignPrefix="KHV" TypeCode="B732" ModelName="A320WKHVWL//A321KHV" />
-    <ModelMatchRule CallsignPrefix="KHV" TypeCode="B733" ModelName="A320WKHVWL//A321KHV" />
-    <ModelMatchRule CallsignPrefix="KHV" TypeCode="B737" ModelName="A320WKHVWL//A321KHV" />
-    <ModelMatchRule CallsignPrefix="KHV" TypeCode="B738" ModelName="A320WKHVWL//A321KHV" />
-    <ModelMatchRule CallsignPrefix="KHV" TypeCode="B748" ModelName="A320WKHVWL//A321KHV" />
-    <ModelMatchRule CallsignPrefix="KHV" TypeCode="B763" ModelName="A320WKHVWL//A321KHV" />
-    <ModelMatchRule CallsignPrefix="KHV" TypeCode="B772" ModelName="A320WKHVWL//A321KHV" />
-    <ModelMatchRule CallsignPrefix="KHV" TypeCode="B77L" ModelName="A320WKHVWL//A321KHV" />
-    <ModelMatchRule CallsignPrefix="KHV" TypeCode="B77W" ModelName="A320WKHVWL//A321KHV" />
-    <ModelMatchRule CallsignPrefix="KHV" TypeCode="B788" ModelName="A320WKHVWL//A321KHV" />
-    <ModelMatchRule CallsignPrefix="KHV" TypeCode="B789" ModelName="A320WKHVWL//A321KHV" />
-    <ModelMatchRule CallsignPrefix="KHV" TypeCode="B78X" ModelName="A320WKHVWL//A321KHV" />
+    <ModelMatchRule CallsignPrefix="KHV" TypeCode="A321" ModelName="A320WKHVWL" />
+    <ModelMatchRule CallsignPrefix="KHV" TypeCode="A319" ModelName="A320WKHVWL" />
+    <ModelMatchRule CallsignPrefix="KHV" TypeCode="A318" ModelName="A320WKHVWL" />
+    <ModelMatchRule CallsignPrefix="KHV" TypeCode="A20N" ModelName="A320WKHVWL" />
+    <ModelMatchRule CallsignPrefix="KHV" TypeCode="A21N" ModelName="A320WKHVWL" />
+    <ModelMatchRule CallsignPrefix="KHV" TypeCode="A19N" ModelName="A320WKHVWL" />
+    <ModelMatchRule CallsignPrefix="KHV" TypeCode="A333" ModelName="A320WKHVWL" />
+    <ModelMatchRule CallsignPrefix="KHV" TypeCode="A359" ModelName="A320WKHVWL" />
+    <ModelMatchRule CallsignPrefix="KHV" TypeCode="B732" ModelName="A320WKHVWL" />
+    <ModelMatchRule CallsignPrefix="KHV" TypeCode="B733" ModelName="A320WKHVWL" />
+    <ModelMatchRule CallsignPrefix="KHV" TypeCode="B737" ModelName="A320WKHVWL" />
+    <ModelMatchRule CallsignPrefix="KHV" TypeCode="B738" ModelName="A320WKHVWL" />
+    <ModelMatchRule CallsignPrefix="KHV" TypeCode="B748" ModelName="A320WKHVWL" />
+    <ModelMatchRule CallsignPrefix="KHV" TypeCode="B763" ModelName="A320WKHVWL" />
+    <ModelMatchRule CallsignPrefix="KHV" TypeCode="B772" ModelName="A320WKHVWL" />
+    <ModelMatchRule CallsignPrefix="KHV" TypeCode="B77L" ModelName="A320WKHVWL" />
+    <ModelMatchRule CallsignPrefix="KHV" TypeCode="B77W" ModelName="A320WKHVWL" />
+    <ModelMatchRule CallsignPrefix="KHV" TypeCode="B788" ModelName="A320WKHVWL" />
+    <ModelMatchRule CallsignPrefix="KHV" TypeCode="B789" ModelName="A320WKHVWL" />
+    <ModelMatchRule CallsignPrefix="KHV" TypeCode="B78X" ModelName="A320WKHVWL" />
+    
     <ModelMatchRule CallsignPrefix="KIS" TypeCode="A320" ModelName="A320KIS" />
     <ModelMatchRule CallsignPrefix="KIS" TypeCode="A321" ModelName="A321KIS" />
     <ModelMatchRule CallsignPrefix="KIS" TypeCode="A319" ModelName="A320KIS//A321KIS" />
