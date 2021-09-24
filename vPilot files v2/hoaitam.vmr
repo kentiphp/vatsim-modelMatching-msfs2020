@@ -5856,25 +5856,25 @@
     <ModelMatchRule CallsignPrefix="HUF" TypeCode="B78X" ModelName="A319HUF" />
     <ModelMatchRule CallsignPrefix="HVN" TypeCode="A21N" ModelName="A21N HVN" />
     <ModelMatchRule CallsignPrefix="HVN" TypeCode="A321" ModelName="A321 HVN//A321HVN3//A321HVN//A321HVN2" />
-    <ModelMatchRule CallsignPrefix="HVN" TypeCode="A359" ModelName="A359HVN" />
+    <ModelMatchRule CallsignPrefix="HVN" TypeCode="A359" ModelName="A359hvn" />
     <ModelMatchRule CallsignPrefix="HVN" TypeCode="A320" ModelName="A321 HVN//A321HVN3//A321HVN//A321HVN2//A21N HVN" />
     <ModelMatchRule CallsignPrefix="HVN" TypeCode="A319" ModelName="A321 HVN//A321HVN3//A321HVN//A321HVN2//A21N HVN" />
     <ModelMatchRule CallsignPrefix="HVN" TypeCode="A318" ModelName="A321 HVN//A321HVN3//A321HVN//A321HVN2//A21N HVN" />
     <ModelMatchRule CallsignPrefix="HVN" TypeCode="A20N" ModelName="A321 HVN//A321HVN3//A321HVN//A321HVN2//A21N HVN" />
     <ModelMatchRule CallsignPrefix="HVN" TypeCode="A19N" ModelName="A321 HVN//A321HVN3//A321HVN//A321HVN2//A21N HVN" />
-    <ModelMatchRule CallsignPrefix="HVN" TypeCode="A333" ModelName="A359HVN" />
+    <ModelMatchRule CallsignPrefix="HVN" TypeCode="A333" ModelName="A359hvn" />
     <ModelMatchRule CallsignPrefix="HVN" TypeCode="B732" ModelName="A321 HVN//A321HVN3//A321HVN//A321HVN2//A21N HVN" />
     <ModelMatchRule CallsignPrefix="HVN" TypeCode="B733" ModelName="A321 HVN//A321HVN3//A321HVN//A321HVN2//A21N HVN" />
     <ModelMatchRule CallsignPrefix="HVN" TypeCode="B737" ModelName="A321 HVN//A321HVN3//A321HVN//A321HVN2//A21N HVN" />
     <ModelMatchRule CallsignPrefix="HVN" TypeCode="B738" ModelName="A321 HVN//A321HVN3//A321HVN//A321HVN2//A21N HVN" />
-    <ModelMatchRule CallsignPrefix="HVN" TypeCode="B748" ModelName="A359HVN" />
-    <ModelMatchRule CallsignPrefix="HVN" TypeCode="B763" ModelName="A359HVN" />
-    <ModelMatchRule CallsignPrefix="HVN" TypeCode="B772" ModelName="A359HVN" />
-    <ModelMatchRule CallsignPrefix="HVN" TypeCode="B77L" ModelName="A359HVN" />
-    <ModelMatchRule CallsignPrefix="HVN" TypeCode="B77W" ModelName="A359HVN" />
-    <ModelMatchRule CallsignPrefix="HVN" TypeCode="B788" ModelName="A359HVN" />
-    <ModelMatchRule CallsignPrefix="HVN" TypeCode="B789" ModelName="A359HVN" />
-    <ModelMatchRule CallsignPrefix="HVN" TypeCode="B78X" ModelName="A359HVN" />
+    <ModelMatchRule CallsignPrefix="HVN" TypeCode="B748" ModelName="A359hvn" />
+    <ModelMatchRule CallsignPrefix="HVN" TypeCode="B763" ModelName="A359hvn" />
+    <ModelMatchRule CallsignPrefix="HVN" TypeCode="B772" ModelName="A359hvn" />
+    <ModelMatchRule CallsignPrefix="HVN" TypeCode="B77L" ModelName="A359hvn" />
+    <ModelMatchRule CallsignPrefix="HVN" TypeCode="B77W" ModelName="A359hvn" />
+    <ModelMatchRule CallsignPrefix="HVN" TypeCode="B788" ModelName="A359hvn" />
+    <ModelMatchRule CallsignPrefix="HVN" TypeCode="B789" ModelName="A359hvn" />
+    <ModelMatchRule CallsignPrefix="HVN" TypeCode="B78X" ModelName="A359hvn" />
     <ModelMatchRule CallsignPrefix="HXA" TypeCode="A20N" ModelName="A20N HXA" />
     <ModelMatchRule CallsignPrefix="HXA" TypeCode="A320" ModelName="A320 HXA//A320WHXAWL" />
     <ModelMatchRule CallsignPrefix="HXA" TypeCode="AJ27" ModelName="AJ27 HXA" />

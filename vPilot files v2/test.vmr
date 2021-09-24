@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModelMatchRuleSet>
-    <ModelMatchRule TypeCode="" ModelName="A321 ACA" />
+    <ModelMatchRule TypeCode="" ModelName="FLAi_TFS_B77W_ACA-Air Canada" />
 
 </ModelMatchRuleSet>
