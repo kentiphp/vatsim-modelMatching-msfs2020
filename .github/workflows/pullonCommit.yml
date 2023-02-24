@@ -1,0 +1,16 @@
+name: Pull on Commit
+
+on:
+  push:
+    branches:
+      - main # pull code khi có commit mới trên branch main
+
+jobs:
+  pull:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2 # checkout code từ repository
+      - name: Pull changes
+        run: git pull origin main # pull code từ branch main trên remote repository
