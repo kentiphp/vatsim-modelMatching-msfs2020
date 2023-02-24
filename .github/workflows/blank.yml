@@ -1,0 +1,16 @@
+name: Pull on Commit
+
+on:
+  push:
+    branches: [master] # chỉ pull khi push vào branch main
+  workflow_dispatch: # cho phép chạy workflow thủ công
+
+jobs:
+  pull:
+    runs-on: windows-latest
+
+    steps:
+      - uses: actions/checkout@v2 # checkout code từ repository
+      - name: Pull changes
+        run: git pull origin master # pull từ branch main trên remote repository
+
